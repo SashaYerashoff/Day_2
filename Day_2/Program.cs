@@ -10,6 +10,7 @@ namespace Day_2
             Console.WriteLine("ludzu ievadi savus dzimsanas datus: ");
             dati = Console.ReadLine();
             Console.WriteLine("Jus esat dzimis: " + dati);
+            Console.WriteLine("github.tests");
             Console.ReadLine();
         }
     }
